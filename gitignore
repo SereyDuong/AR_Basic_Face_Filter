@@ -1,0 +1,26 @@
+# Unity Generated
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+
+# Builds & APK
+*.apk
+*.aab
+*.unitypackage
+
+# AR Backup Folder
+AR_template_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# IDE Files
+*.sln
+*.csproj
+.idea/
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
